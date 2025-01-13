@@ -67,7 +67,7 @@ const Countdown = () => {
       </div>
 
       <div className="current-date">
-        <p>오늘: {currentDate}</p>
+        <p className="PP">오늘: {currentDate}</p>
       </div>
 
       <div className="github-link">

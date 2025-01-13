@@ -11,7 +11,9 @@ body {
   overflow: hidden;
   
 }
-
+.PP{
+  color: #bcfb00;
+}
 .countdown {
   text-align: center;
   z-index: 10;
